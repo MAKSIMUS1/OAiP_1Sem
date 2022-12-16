@@ -1,0 +1,34 @@
+﻿Сборка начата 20.10.2021 14:36:01.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\Lab9Belo.3f353ecb.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\Lab9Belo.3f353ecb.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab9BelodedDopVar8.cpp
+         Lab9BelodedDopVar8.cpp
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(6,33): warning C4305: инициализация: усечение из "double" в "float"
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(37,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+       D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(37,10): message : рекомендуется использовать "%lf" в строке форматирования
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(39,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+       D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(39,10): message : рекомендуется использовать "%lf" в строке форматирования
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Debug\Lab9BelodedDopVar8.exe" /INCREMENTAL /ILK:"Debug\Lab9BelodedDopVar8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Debug\Lab9BelodedDopVar8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Debug\Lab9BelodedDopVar8.lib" /MACHINE:X86 Debug\Lab9BelodedDopVar8.obj
+         Lab9BelodedDopVar8.vcxproj -> D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Debug\Lab9BelodedDopVar8.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab9Belo.3f353ecb.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab9Belo.3f353ecb.tlog\Lab9BelodedDopVar8.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(6,33): warning C4305: инициализация: усечение из "double" в "float"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(37,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #8\Lab8Beloded\Lab9BelodedDopVar8\Lab9BelodedDopVar8.cpp(39,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:01.54

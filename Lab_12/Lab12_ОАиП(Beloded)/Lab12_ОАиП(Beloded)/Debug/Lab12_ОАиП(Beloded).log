@@ -1,0 +1,26 @@
+﻿Сборка начата 15.11.2021 15:00:09.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded).vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab12_ОА.2ead518f.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "Lab12_ОАиП(Beloded).cpp"
+         Lab12_ОАиП(Beloded).cpp
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded).cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Debug\Lab12_ОАиП(Beloded).exe" /INCREMENTAL /ILK:"Debug\Lab12_ОАиП(Beloded).ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Debug\Lab12_ОАиП(Beloded).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Debug\Lab12_ОАиП(Beloded).lib" /MACHINE:X86 "Debug\Lab12_ОАиП(Beloded).obj"
+         Lab12_ОАиП(Beloded).vcxproj -> D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Debug\Lab12_ОАиП(Beloded).exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab12_ОА.2ead518f.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab12_ОА.2ead518f.tlog\Lab12_ОАиП(Beloded).lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded).vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #12\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded)\Lab12_ОАиП(Beloded).cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.45

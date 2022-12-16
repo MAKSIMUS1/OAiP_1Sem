@@ -1,0 +1,34 @@
+﻿Сборка начата 30.10.2021 16:39:37.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab7Beloded.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab7Beloded.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab8Beloded.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab8Beloded.cpp
+         Lab8Beloded.cpp
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab8Beloded.cpp(9,22): warning C4305: инициализация: усечение из "double" в "float"
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab8Beloded.cpp(9,55): warning C4305: инициализация: усечение из "double" в "float"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Debug\Lab8Beloded.exe" /INCREMENTAL /ILK:"Debug\Lab8Beloded.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Debug\Lab8Beloded.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Debug\Lab8Beloded.lib" /MACHINE:X86 Debug\Lab8Beloded.obj
+         Lab7Beloded.vcxproj -> D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Debug\Lab8Beloded.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab8Beloded.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab8Beloded.tlog\Lab8Beloded.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab7Beloded.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab7Beloded.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab7Beloded.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab7Beloded.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab8Beloded.cpp(9,22): warning C4305: инициализация: усечение из "double" в "float"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #7\Lab7Beloded\Lab7Beloded\Lab8Beloded.cpp(9,55): warning C4305: инициализация: усечение из "double" в "float"
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:00.64

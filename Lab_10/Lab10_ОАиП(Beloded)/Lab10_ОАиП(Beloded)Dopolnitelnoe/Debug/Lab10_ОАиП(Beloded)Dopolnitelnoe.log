@@ -1,0 +1,28 @@
+﻿Сборка начата 22.10.2021 19:57:18.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab10_ОА.bc98cffe.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp"
+         Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp(12,12): warning C4101: size3: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.exe" /INCREMENTAL /ILK:"Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.lib" /MACHINE:X86 "Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.obj"
+         Lab10_ОАиП(Beloded)Dopolnitelnoe.vcxproj -> D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Debug\Lab10_ОАиП(Beloded)Dopolnitelnoe.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab10_ОА.bc98cffe.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab10_ОА.bc98cffe.tlog\Lab10_ОАиП(Beloded)Dopolnitelnoe.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\БГТУ Лабы, лекции и тд\Лабараторные Белодед\Лабараторные\Лабараторная #10\Lab10_ОАиП(Beloded)\Lab10_ОАиП(Beloded)Dopolnitelnoe\Lab10_ОАиП(Beloded)Dopolnitelnoe.cpp(12,12): warning C4101: size3: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.66
